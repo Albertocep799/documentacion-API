@@ -20,9 +20,9 @@ layout:
 
 ### [Error Codes](codigos-de-error.md#error-codes) <a href="#error-codes" id="error-codes"></a>
 
-Along with the HTTP error code, the Discord API can also return more detailed error codes through a key in the JSON error response. The response will also contain a key containing a more friendly error string. Some of these errors may include additional details in the form of [Error Messages](https://docs.discord.food/reference#error-messages) provided by an object.
+Junto con el código de error HTTP, la API de Discord también puede devolver códigos de error más detallados a través de una clave en la respuesta de error JSON. La respuesta también contendrá una clave con una cadena de error más amigable. Algunos de estos errores pueden incluir detalles adicionales en forma de mensajes de error proporcionados por un objeto.
 
-We maintain an unofficial updated list of error codes seen in the wild, which is significantly more comprehensive than the official documentation. If you found an error which is incorrect or not listed, you can submit it here with reproduction steps, and we will add it to the list. Thanks for your contribution!
+Mantenemos una lista no oficial y actualizada de códigos de error vistos en el entorno real, que es significativamente más completa que la documentación oficial. Si encuentras un error incorrecto o no listado, puedes enviarlo aquí con los pasos para reproducirlo, y lo añadiremos a la lista. ¡Gracias por tu contribución!
 
 Filter by Unknown
 
